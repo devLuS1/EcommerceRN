@@ -14,7 +14,7 @@ Una aplicación de comercio electrónico desarrollada con React Native que ofrec
 
 ## Instalación
 
-1. Clonar el repositorio: `git clone https://github.com/devLuS1/Ecommerce`
+1. Clonar el repositorio: `git clone https://github.com/devLuS1/EcommerceRN`
 2. Instala las dependencias: `npm install`
 3. Configura las claves de API para servicios externos (Expo-Location, Firebase, etc.).
 4. Configura las credenciales de Firebase en tu proyecto.
